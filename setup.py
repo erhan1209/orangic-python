@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="orangic",
     version="0.1.0",  # Pre-release version
-    author="Orangic",
+    author="Orangic Technologies",
     author_email="support@orangic.tech",
     description="The official Python library for the Orangic API (Pre-release)",
     long_description=long_description,
