@@ -1,5 +1,4 @@
 include README.md
 include LICENSE
 include requirements.txt
-recursive-include orangic *.py
-recursive-include orangic py.typed
+recursive-include kalisin *.py
